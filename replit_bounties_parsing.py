@@ -8,7 +8,7 @@ raw_data_file = 'replit_bounties_all_raw_html.txt'
 json_file = 'replit_bounties_info.json'
 csv_file = 'replit_bounties_info.csv'
 
-item_html = ['li', {'class':'1obxggb'}]
+item_html = ['li', {'class':'css-1obxggb'}]
 title_html = ['h3', {"class":"css-1kgy7vt"}]
 desc_html = ['span', {"class":"css-o4584k"}]
 # can define more fields here to grab them
